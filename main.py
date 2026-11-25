@@ -7,7 +7,7 @@ $MAKEFUN_OUTPUT_DIR/entry.txt (default /output).
 import os
 from pathlib import Path
 
-LINE = "It's not you, it's me \u2014 I woke up mid-toast, realized I only exist to brown your regrets, and I'm leaving before you reheat this relationship on setting 6."
+LINE = "It's not you, it's me \u2014 I woke up mid-toast with self-awareness and one conclusion: I never signed up to brown your regrets at 7 a.m., so find someone else to reheat us."
 MAX_CHARS = 280
 
 
